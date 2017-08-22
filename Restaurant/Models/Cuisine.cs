@@ -133,7 +133,7 @@ namespace RestaurantList.Models
             conn.Open();
 
             var cmd = conn.CreateCommand() as MySqlCommand;
-            cmd.CommandText = @"DELETE FROM cuisine;";
+            cmd.CommandText = @"DELETE FROM cuisines;";
             cmd.ExecuteNonQuery();
 
             conn.Close();
