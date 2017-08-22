@@ -1,0 +1,8 @@
+C:\Users\kayob\Desktop\Epicodus\Restaurant.Solutions\Restaurant\bin\Debug\netcoreapp1.1\restaurants.deps.json
+C:\Users\kayob\Desktop\Epicodus\Restaurant.Solutions\Restaurant\bin\Debug\netcoreapp1.1\restaurants.runtimeconfig.json
+C:\Users\kayob\Desktop\Epicodus\Restaurant.Solutions\Restaurant\bin\Debug\netcoreapp1.1\restaurants.runtimeconfig.dev.json
+C:\Users\kayob\Desktop\Epicodus\Restaurant.Solutions\Restaurant\obj\Debug\netcoreapp1.1\restaurants.AssemblyInfo.cs
+C:\Users\kayob\Desktop\Epicodus\Restaurant.Solutions\Restaurant\bin\Debug\netcoreapp1.1\restaurants.dll
+C:\Users\kayob\Desktop\Epicodus\Restaurant.Solutions\Restaurant\bin\Debug\netcoreapp1.1\restaurants.pdb
+C:\Users\kayob\Desktop\Epicodus\Restaurant.Solutions\Restaurant\obj\Debug\netcoreapp1.1\restaurants.dll
+C:\Users\kayob\Desktop\Epicodus\Restaurant.Solutions\Restaurant\obj\Debug\netcoreapp1.1\restaurants.pdb
