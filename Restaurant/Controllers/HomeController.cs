@@ -16,41 +16,39 @@ namespace RestaurantList.Controllers
         [HttpGet("/restaurants")]
         public ActionResult Restaurants()
         {
-
+          return View();
         }
 
         [HttpPost("/restaurants")]
         public ActionResult AddRestaurant()
         {
-
+          return View();
         }
 
         [HttpGet("/restaurants/new")]
         public ActionResult RestaurantForm()
         {
-            return View()
+            return View();
         }
 
         [HttpGet("/cuisines")]
         public ActionResult Cuisines()
         {
-
+          return View();
         }
 
         [HttpPost("/cuisines")]
         public ActionResult AddCuisine()
         {
-
+          Cuisine newCuisine = new Cuisine(Request.Form["new-name"]);
+          newCuisine.Save();
+          return View();
         }
 
         [HttpGet("/cuisines/new")]
         public ActionResult CuisineForm()
         {
-            return View()
+            return View();
         }
-
-
     }
-
-
 }
