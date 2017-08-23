@@ -20,7 +20,7 @@ namespace RestaurantList.Controllers
         }
 
         [HttpPost("/restaurants")]
-        public ActionResult AddRestaurants()
+        public ActionResult AddRestaurant()
         {
 
         }
@@ -38,7 +38,7 @@ namespace RestaurantList.Controllers
         }
 
         [HttpPost("/cuisines")]
-        public ActionResult AddCuisines()
+        public ActionResult AddCuisine()
         {
 
         }
